@@ -1,11 +1,11 @@
-# JogoDaVelha
-Jogo da velha em Javascript trabalhando algoritimos de Inteligencia Artificial. Página Desenvolvida para testes.
+# Angular-1.x-And-Spring-boot-Example-Java
+Angular-1.x-And-Spring-boot-Example-Java
 
 
-JavaScript/ CSS /  bootstrap / jquery
+JavaScript
 ## Sobre este repositório
 
-Jogo da velha utilizando HTML, CSS e JS. Utilizando Algortimos de inteligencia artificial (MINIMAX) para determinar as escolhas do adversario.
+
 
 ## Autor
 
